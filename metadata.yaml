@@ -1,0 +1,32 @@
+_repo: Some-Longer-Elizabethan-Poems_54194
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Bullen, A. H. (Arthur Henry)
+    aliases:
+    - Butler, A. H.
+    - Bullen, Arthur Henry
+    birthdate: 1857
+    deathdate: 1920
+    gutenberg_agent_id: '3753'
+    url: http://www.gutenberg.org/2009/agents/3753
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Henry_Bullen
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2017-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54194'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Some Longer Elizabethan Poems
+url: http://www.gutenberg.org/ebooks/54194
